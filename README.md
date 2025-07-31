@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-1712&label=Profile%20views&color=0e75b6&style=flat" alt="swati-1712" /> </p>
 
-- 🔭 I’m currently working on **ML, Web Dev, DL, Figma**
+- 🔭 I’m currently working on **ML,DL,Web Dev,Figma**
 
 - 🌱 I’m currently learning **ML,DL,WEB DEV,FIGMA**
 
 - 👯 I’m looking to collaborate on **insightful tech opportunities**
 
-- 🤝 I’m looking for help with **in seeking opportunities**
+- 🤝 I’m looking for help with ** seeking opportunities**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swati-1712](https://github.com/swati-1712)
 
