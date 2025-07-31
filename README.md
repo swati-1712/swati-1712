@@ -6,7 +6,7 @@ Hi there,I'm Swati Jha!!
 
 👯 I’m looking to collaborate on insightful tech opportunities
 
-📫 How to reach me: LinkedIn
+📫 How to reach me: https://www.linkedin.com/in/swati-jha-b351642a9/
 
 😄 Pronouns: She/Her
 
