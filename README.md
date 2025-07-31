@@ -4,8 +4,4 @@ Hi there,I'm Swati Jha!!
 👯 I’m looking to collaborate on insightful tech opportunities
 📫 How to reach me: LinkedIn
 😄 Pronouns: She/Her
-⚡ Fun fact: I mix code with creativity—logic meets design!
-
-
-
--->
+⚡ Fun fact: I mix code with creativity—logic meets design
