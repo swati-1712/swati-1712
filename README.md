@@ -4,10 +4,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swati-1712&label=Profile%20views&color=0e75b6&style=flat" alt="swati-1712" /> </p>
 
 - 🔭 I’m currently working on **ML,DL,Web Dev,Figma**
+  
+- 🎯 Marketing Specialist & 📱 Social Media Content Creator
 
 - 🌱 I’m currently learning **AI,ML,DL**
 
-- 👯 I’m looking to collaborate on insightful tech opportunities
+- 👯 I’m looking to collaborate on insightful Tech & Marketing opportunities
 
 - 🤝 I’m looking for help with  seeking opportunities
 
