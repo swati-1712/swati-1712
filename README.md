@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ML,DL,Web Dev,Figma**
 
-- 🌱 I’m currently learning **ML,DL,WEB DEV,FIGMA**
+- 🌱 I’m currently learning **AI,ML,DL**
 
 - 👯 I’m looking to collaborate on insightful tech opportunities
 
