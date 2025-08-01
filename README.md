@@ -7,7 +7,7 @@
   
 - 🎯 Marketing Specialist & 📱 Social Media Content Creator
 
-- 🌱 I’m currently learning **AI,ML,DL**
+- 🌱 I’m currently learning **AI,ML and DL**
 
 - 👯 I’m looking to collaborate on insightful Tech & Marketing opportunities
 
