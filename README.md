@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **ML,DL,WEB DEV,FIGMA**
 
-- 👯 I’m looking to collaborate on **insightful tech opportunities**
+- 👯 I’m looking to collaborate on insightful tech opportunities
 
-- 🤝 I’m looking for help with ** seeking opportunities**
+- 🤝 I’m looking for help with  seeking opportunities
 
 - 👨‍💻 All of my projects are available at [https://github.com/swati-1712](https://github.com/swati-1712)
 
